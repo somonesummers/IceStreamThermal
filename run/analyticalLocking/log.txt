@@ -1,0 +1,1613 @@
+*****     Time: 0     *****
+Margin Position: 0 
+Margin Smearing Width: 32768 
+Margin Position: 32768 
+Margin Smearing Width: 32768 
+
+Margin Position: 32768 
+Margin Smearing Width: 16384 
+Margin Position: 49152 
+Margin Smearing Width: 16384 
+
+Margin Position: 49152 
+Margin Smearing Width: 8192 
+Margin Position: 57344 
+Margin Smearing Width: 8192 
+
+Margin Position: 57344 
+Margin Smearing Width: 4096 
+
+Margin Position: 57344 
+Margin Smearing Width: 2048 
+Margin Position: 59392 
+Margin Smearing Width: 2048 
+
+Margin Position: 59392 
+Margin Smearing Width: 1024 
+Margin Position: 60416 
+Margin Smearing Width: 1024 
+Margin Position: 61440 
+Margin Smearing Width: 1024 
+
+Margin Position: 61440 
+Margin Smearing Width: 512 
+Margin Position: 61952 
+Margin Smearing Width: 512 
+
+Margin Position: 61952 
+Margin Smearing Width: 256 
+Margin Position: 62208 
+Margin Smearing Width: 256 
+Margin Position: 62464 
+Margin Smearing Width: 256 
+
+Margin Position: 62464 
+Margin Smearing Width: 128 
+Margin Position: 62592 
+Margin Smearing Width: 128 
+
+Margin Position: 62592 
+Margin Smearing Width: 64 
+Margin Position: 62656 
+Margin Smearing Width: 64 
+
+Margin Position: 62656 
+Margin Smearing Width: 32 
+Margin Position: 62688 
+Margin Smearing Width: 32 
+
+Margin Position: 62688 
+Margin Smearing Width: 16 
+
+Margin Position: 62688 
+Margin Smearing Width: 8 
+Margin Position: 62696 
+Margin Smearing Width: 8 
+
+Margin Position: 62696 
+Margin Smearing Width: 4 
+Margin Position: 62700 
+Margin Smearing Width: 4 
+
+Margin Position: 62700 
+Margin Smearing Width: 2 
+
+Margin Position: 62700 
+Margin Smearing Width: 1 
+
+Final Margin Position: 62700 m 
+		[1]Temperature Residual: 19.260549 
+		[2]Temperature Residual: 3.985096 
+		[3]Temperature Residual: 2.932152 
+		[4]Temperature Residual: 2.046697 
+		[5]Temperature Residual: 1.409768 
+		[6]Temperature Residual: 0.879279 
+		[7]Temperature Residual: 0.682596 
+		[8]Temperature Residual: 0.451435 
+		[9]Temperature Residual: 0.368870 
+		[10]Temperature Residual: 0.307268 
+		[11]Temperature Residual: 0.348631 
+		[12]Temperature Residual: 0.452749 
+		[13]Temperature Residual: 0.614863 
+		[14]Temperature Residual: 0.569942 
+		[15]Temperature Residual: 0.522896 
+		[16]Temperature Residual: 0.580098 
+		[17]Temperature Residual: 0.346768 
+		[18]Temperature Residual: 0.295664 
+		[19]Temperature Residual: 0.414479 
+		[20]Temperature Residual: 0.386546 
+		[21]Temperature Residual: 0.611692 
+		[22]Temperature Residual: 0.506082 
+		[23]Temperature Residual: 0.462733 
+		[24]Temperature Residual: 0.522547 
+		[25]Temperature Residual: 0.657283 
+		[26]Temperature Residual: 0.446032 
+		[27]Temperature Residual: 0.657040 
+		[28]Temperature Residual: 0.461218 
+		[29]Temperature Residual: 0.398176 
+		[30]Temperature Residual: 0.443849 
+		[31]Temperature Residual: 0.402878 
+		[32]Temperature Residual: 0.428760 
+		[33]Temperature Residual: 0.602381 
+		[34]Temperature Residual: 0.512026 
+		[35]Temperature Residual: 0.410545 
+		[36]Temperature Residual: 0.395738 
+		[37]Temperature Residual: 0.419455 
+		[38]Temperature Residual: 0.559569 
+		[39]Temperature Residual: 0.542094 
+		[40]Temperature Residual: 0.509315 
+		[41]Temperature Residual: 0.393561 
+		[42]Temperature Residual: 0.596304 
+		[43]Temperature Residual: 0.493238 
+		[44]Temperature Residual: 0.399445 
+		[45]Temperature Residual: 0.461641 
+		[46]Temperature Residual: 0.493000 
+		[47]Temperature Residual: 0.453094 
+		[48]Temperature Residual: 0.463935 
+		[49]Temperature Residual: 0.374796 
+		[50]Temperature Residual: 0.565175 
+		[51]Temperature Residual: 0.558564 
+		[52]Temperature Residual: 0.442542 
+		[53]Temperature Residual: 0.394938 
+		[54]Temperature Residual: 0.478302 
+		[55]Temperature Residual: 0.466630 
+		[56]Temperature Residual: 0.520434 
+		[57]Temperature Residual: 0.601593 
+		[58]Temperature Residual: 0.472147 
+		[59]Temperature Residual: 0.436089 
+		[60]Temperature Residual: 0.486265 
+		[61]Temperature Residual: 0.460693 
+		[62]Temperature Residual: 0.425542 
+		[63]Temperature Residual: 0.543090 
+		[64]Temperature Residual: 0.460747 
+		[65]Temperature Residual: 0.430664 
+		[66]Temperature Residual: 0.392115 
+		[67]Temperature Residual: 0.505394 
+		[68]Temperature Residual: 0.466568 
+		[69]Temperature Residual: 0.593154 
+		[70]Temperature Residual: 0.502392 
+		[71]Temperature Residual: 0.415517 
+		[72]Temperature Residual: 0.480966 
+		[73]Temperature Residual: 0.490725 
+		[74]Temperature Residual: 0.425193 
+		[75]Temperature Residual: 0.518863 
+		[76]Temperature Residual: 0.462635 
+		[77]Temperature Residual: 0.584521 
+		[78]Temperature Residual: 0.494169 
+		[79]Temperature Residual: 0.468324 
+		[80]Temperature Residual: 0.398539 
+		[81]Temperature Residual: 0.504048 
+		[82]Temperature Residual: 0.505677 
+		[83]Temperature Residual: 0.577609 
+		[84]Temperature Residual: 0.434352 
+		[85]Temperature Residual: 0.484068 
+		[86]Temperature Residual: 0.420541 
+		[87]Temperature Residual: 0.501425 
+		[88]Temperature Residual: 0.428741 
+		[89]Temperature Residual: 0.537298 
+		[90]Temperature Residual: 0.421690 
+		[91]Temperature Residual: 0.562496 
+		[92]Temperature Residual: 0.476722 
+		[93]Temperature Residual: 0.563558 
+		[94]Temperature Residual: 0.662383 
+		[95]Temperature Residual: 0.429457 
+		[96]Temperature Residual: 0.350435 
+		[97]Temperature Residual: 0.395333 
+		[98]Temperature Residual: 0.389521 
+		[99]Temperature Residual: 0.551527 
+		[100]Temperature Residual: 0.505213 
+*****     Time: 0     *****
+Margin Position: 0 
+Margin Smearing Width: 32768 
+Margin Position: 32768 
+Margin Smearing Width: 32768 
+
+Margin Position: 32768 
+Margin Smearing Width: 16384 
+Margin Position: 49152 
+Margin Smearing Width: 16384 
+
+Margin Position: 49152 
+Margin Smearing Width: 8192 
+Margin Position: 57344 
+Margin Smearing Width: 8192 
+
+Margin Position: 57344 
+Margin Smearing Width: 4096 
+
+Margin Position: 57344 
+Margin Smearing Width: 2048 
+Margin Position: 59392 
+Margin Smearing Width: 2048 
+
+Margin Position: 59392 
+Margin Smearing Width: 1024 
+Margin Position: 60416 
+Margin Smearing Width: 1024 
+Margin Position: 61440 
+Margin Smearing Width: 1024 
+
+Margin Position: 61440 
+Margin Smearing Width: 512 
+Margin Position: 61952 
+Margin Smearing Width: 512 
+
+Margin Position: 61952 
+Margin Smearing Width: 256 
+Margin Position: 62208 
+Margin Smearing Width: 256 
+Margin Position: 62464 
+Margin Smearing Width: 256 
+
+Margin Position: 62464 
+Margin Smearing Width: 128 
+Margin Position: 62592 
+Margin Smearing Width: 128 
+
+Margin Position: 62592 
+Margin Smearing Width: 64 
+Margin Position: 62656 
+Margin Smearing Width: 64 
+
+Margin Position: 62656 
+Margin Smearing Width: 32 
+Margin Position: 62688 
+Margin Smearing Width: 32 
+
+Margin Position: 62688 
+Margin Smearing Width: 16 
+
+Margin Position: 62688 
+Margin Smearing Width: 8 
+Margin Position: 62696 
+Margin Smearing Width: 8 
+
+Margin Position: 62696 
+Margin Smearing Width: 4 
+Margin Position: 62700 
+Margin Smearing Width: 4 
+
+Margin Position: 62700 
+Margin Smearing Width: 2 
+
+Margin Position: 62700 
+Margin Smearing Width: 1 
+
+Final Margin Position: 62700 m 
+		[1]Temperature Residual: 20.334521 
+		[2]Temperature Residual: 4.122032 
+		[3]Temperature Residual: 3.059942 
+		[4]Temperature Residual: 2.137340 
+		[5]Temperature Residual: 1.492106 
+		[6]Temperature Residual: 0.981663 
+		[7]Temperature Residual: 0.672391 
+		[8]Temperature Residual: 0.544221 
+		[9]Temperature Residual: 0.351881 
+		[10]Temperature Residual: 0.345433 
+		[11]Temperature Residual: 0.384215 
+		[12]Temperature Residual: 0.445857 
+		[13]Temperature Residual: 0.527402 
+		[14]Temperature Residual: 0.413209 
+		[15]Temperature Residual: 0.520852 
+		[16]Temperature Residual: 0.498692 
+		[17]Temperature Residual: 0.349208 
+		[18]Temperature Residual: 0.360631 
+		[19]Temperature Residual: 0.645353 
+		[20]Temperature Residual: 0.476952 
+		[21]Temperature Residual: 0.401683 
+		[22]Temperature Residual: 0.410039 
+		[23]Temperature Residual: 0.416832 
+		[24]Temperature Residual: 0.435938 
+		[25]Temperature Residual: 0.656816 
+		[26]Temperature Residual: 0.469760 
+		[27]Temperature Residual: 0.364952 
+		[28]Temperature Residual: 0.351817 
+		[29]Temperature Residual: 0.379590 
+		[30]Temperature Residual: 0.585464 
+		[31]Temperature Residual: 0.486787 
+		[32]Temperature Residual: 0.484670 
+		[33]Temperature Residual: 0.360006 
+		[34]Temperature Residual: 0.447643 
+		[35]Temperature Residual: 0.398107 
+		[36]Temperature Residual: 0.377771 
+		[37]Temperature Residual: 0.405637 
+		[38]Temperature Residual: 0.402101 
+		[39]Temperature Residual: 0.447336 
+		[40]Temperature Residual: 0.433030 
+		[41]Temperature Residual: 0.362979 
+		[42]Temperature Residual: 0.410951 
+		[43]Temperature Residual: 0.504796 
+		[44]Temperature Residual: 0.513554 
+		[45]Temperature Residual: 0.495975 
+		[46]Temperature Residual: 0.420397 
+		[47]Temperature Residual: 0.466837 
+		[48]Temperature Residual: 0.641174 
+		[49]Temperature Residual: 0.603797 
+		[50]Temperature Residual: 0.490829 
+		[51]Temperature Residual: 0.340242 
+		[52]Temperature Residual: 0.302792 
+		[53]Temperature Residual: 0.366850 
+		[54]Temperature Residual: 0.820762 
+		[55]Temperature Residual: 0.627056 
+		[56]Temperature Residual: 0.505561 
+		[57]Temperature Residual: 0.317244 
+		[58]Temperature Residual: 0.362006 
+		[59]Temperature Residual: 0.618761 
+		[60]Temperature Residual: 0.462804 
+		[61]Temperature Residual: 0.381175 
+		[62]Temperature Residual: 0.505739 
+		[63]Temperature Residual: 0.664690 
+		[64]Temperature Residual: 0.634682 
+		[65]Temperature Residual: 0.422902 
+		[66]Temperature Residual: 0.504272 
+		[67]Temperature Residual: 0.392122 
+		[68]Temperature Residual: 0.583810 
+		[69]Temperature Residual: 0.456513 
+		[70]Temperature Residual: 0.366140 
+		[71]Temperature Residual: 0.512123 
+		[72]Temperature Residual: 0.466933 
+		[73]Temperature Residual: 0.534271 
+		[74]Temperature Residual: 0.503157 
+		[75]Temperature Residual: 0.407315 
+		[76]Temperature Residual: 0.395288 
+		[77]Temperature Residual: 0.400191 
+		[78]Temperature Residual: 0.588379 
+		[79]Temperature Residual: 0.507039 
+		[80]Temperature Residual: 0.706729 
+		[81]Temperature Residual: 0.449972 
+		[82]Temperature Residual: 0.328138 
+		[83]Temperature Residual: 0.360418 
+		[84]Temperature Residual: 0.369621 
+		[85]Temperature Residual: 0.379538 
+		[86]Temperature Residual: 0.569494 
+		[87]Temperature Residual: 0.674052 
+		[88]Temperature Residual: 0.506400 
+		[89]Temperature Residual: 0.399684 
+		[90]Temperature Residual: 0.372043 
+		[91]Temperature Residual: 0.404126 
+		[92]Temperature Residual: 0.666072 
+		[93]Temperature Residual: 0.539103 
+		[94]Temperature Residual: 0.488307 
+		[95]Temperature Residual: 0.417297 
+		[96]Temperature Residual: 0.387612 
+		[97]Temperature Residual: 0.477658 
+		[98]Temperature Residual: 0.431613 
+		[99]Temperature Residual: 0.667278 
+		[100]Temperature Residual: 0.474716 
+*****     Time: 0     *****
+Margin Position: 0 
+Margin Smearing Width: 32768 
+Margin Position: 32768 
+Margin Smearing Width: 32768 
+
+Margin Position: 32768 
+Margin Smearing Width: 16384 
+Margin Position: 49152 
+Margin Smearing Width: 16384 
+
+Margin Position: 49152 
+Margin Smearing Width: 8192 
+Margin Position: 57344 
+Margin Smearing Width: 8192 
+
+Margin Position: 57344 
+Margin Smearing Width: 4096 
+
+Margin Position: 57344 
+Margin Smearing Width: 2048 
+Margin Position: 59392 
+Margin Smearing Width: 2048 
+
+Margin Position: 59392 
+Margin Smearing Width: 1024 
+Margin Position: 60416 
+Margin Smearing Width: 1024 
+Margin Position: 61440 
+Margin Smearing Width: 1024 
+
+Margin Position: 61440 
+Margin Smearing Width: 512 
+Margin Position: 61952 
+Margin Smearing Width: 512 
+
+Margin Position: 61952 
+Margin Smearing Width: 256 
+Margin Position: 62208 
+Margin Smearing Width: 256 
+Margin Position: 62464 
+Margin Smearing Width: 256 
+
+Margin Position: 62464 
+Margin Smearing Width: 128 
+Margin Position: 62592 
+Margin Smearing Width: 128 
+
+Margin Position: 62592 
+Margin Smearing Width: 64 
+Margin Position: 62656 
+Margin Smearing Width: 64 
+
+Margin Position: 62656 
+Margin Smearing Width: 32 
+Margin Position: 62688 
+Margin Smearing Width: 32 
+
+Margin Position: 62688 
+Margin Smearing Width: 16 
+
+Margin Position: 62688 
+Margin Smearing Width: 8 
+Margin Position: 62696 
+Margin Smearing Width: 8 
+
+Margin Position: 62696 
+Margin Smearing Width: 4 
+Margin Position: 62700 
+Margin Smearing Width: 4 
+
+Margin Position: 62700 
+Margin Smearing Width: 2 
+
+Margin Position: 62700 
+Margin Smearing Width: 1 
+
+Final Margin Position: 62700 m 
+		[1]Temperature Residual: 21.699933 
+		[2]Temperature Residual: 4.282742 
+		[3]Temperature Residual: 3.209033 
+		[4]Temperature Residual: 2.259261 
+		[5]Temperature Residual: 1.585704 
+		[6]Temperature Residual: 1.079660 
+		[7]Temperature Residual: 0.704033 
+		[8]Temperature Residual: 0.607968 
+		[9]Temperature Residual: 0.369397 
+		[10]Temperature Residual: 0.389089 
+		[11]Temperature Residual: 0.362455 
+		[12]Temperature Residual: 0.446164 
+		[13]Temperature Residual: 0.484735 
+		[14]Temperature Residual: 0.417885 
+		[15]Temperature Residual: 0.697331 
+		[16]Temperature Residual: 0.514011 
+		[17]Temperature Residual: 0.324557 
+		[18]Temperature Residual: 0.396454 
+		[19]Temperature Residual: 0.560337 
+		[20]Temperature Residual: 0.446343 
+		[21]Temperature Residual: 0.382963 
+		[22]Temperature Residual: 0.486446 
+		[23]Temperature Residual: 0.493802 
+		[24]Temperature Residual: 0.496440 
+		[25]Temperature Residual: 0.431622 
+		[26]Temperature Residual: 0.423858 
+		[27]Temperature Residual: 0.402179 
+		[28]Temperature Residual: 0.487453 
+		[29]Temperature Residual: 0.497991 
+		[30]Temperature Residual: 0.488394 
+		[31]Temperature Residual: 0.447378 
+		[32]Temperature Residual: 0.377096 
+		[33]Temperature Residual: 0.388004 
+		[34]Temperature Residual: 0.532336 
+		[35]Temperature Residual: 0.592394 
+		[36]Temperature Residual: 0.474574 
+		[37]Temperature Residual: 0.433860 
+		[38]Temperature Residual: 0.422246 
+		[39]Temperature Residual: 0.418238 
+		[40]Temperature Residual: 0.473480 
+		[41]Temperature Residual: 0.406662 
+		[42]Temperature Residual: 0.376767 
+		[43]Temperature Residual: 0.438451 
+		[44]Temperature Residual: 0.695348 
+		[45]Temperature Residual: 0.525893 
+		[46]Temperature Residual: 0.415292 
+		[47]Temperature Residual: 0.365717 
+		[48]Temperature Residual: 0.418210 
+		[49]Temperature Residual: 0.637807 
+		[50]Temperature Residual: 0.431970 
+		[51]Temperature Residual: 0.618612 
+		[52]Temperature Residual: 0.564869 
+		[53]Temperature Residual: 0.420523 
+		[54]Temperature Residual: 0.577740 
+		[55]Temperature Residual: 0.475249 
+		[56]Temperature Residual: 0.365118 
+		[57]Temperature Residual: 0.394986 
+		[58]Temperature Residual: 0.472509 
+		[59]Temperature Residual: 0.634053 
+		[60]Temperature Residual: 0.486977 
+		[61]Temperature Residual: 0.395911 
+		[62]Temperature Residual: 0.404392 
+		[63]Temperature Residual: 0.404914 
+		[64]Temperature Residual: 0.340521 
+		[65]Temperature Residual: 0.483785 
+		[66]Temperature Residual: 0.505927 
+		[67]Temperature Residual: 0.500538 
+		[68]Temperature Residual: 0.408496 
+		[69]Temperature Residual: 0.431454 
+		[70]Temperature Residual: 0.761802 
+		[71]Temperature Residual: 0.579661 
+		[72]Temperature Residual: 0.424966 
+		[73]Temperature Residual: 0.385614 
+		[74]Temperature Residual: 0.404412 
+		[75]Temperature Residual: 0.476659 
+		[76]Temperature Residual: 0.555206 
+		[77]Temperature Residual: 0.381611 
+		[78]Temperature Residual: 0.458203 
+		[79]Temperature Residual: 0.561424 
+		[80]Temperature Residual: 0.455809 
+		[81]Temperature Residual: 0.453129 
+		[82]Temperature Residual: 0.397218 
+		[83]Temperature Residual: 0.420361 
+		[84]Temperature Residual: 0.380305 
+		[85]Temperature Residual: 0.656109 
+		[86]Temperature Residual: 0.493634 
+		[87]Temperature Residual: 0.379540 
+		[88]Temperature Residual: 0.318639 
+		[89]Temperature Residual: 0.382156 
+		[90]Temperature Residual: 0.558088 
+		[91]Temperature Residual: 0.496799 
+		[92]Temperature Residual: 0.386500 
+		[93]Temperature Residual: 0.328380 
+		[94]Temperature Residual: 0.369795 
+		[95]Temperature Residual: 0.505907 
+		[96]Temperature Residual: 0.459921 
+		[97]Temperature Residual: 0.378413 
+		[98]Temperature Residual: 0.439903 
+		[99]Temperature Residual: 0.478633 
+		[100]Temperature Residual: 0.484632 
+*****     Time: 0     *****
+Margin Position: 0 
+Margin Smearing Width: 32768 
+Margin Position: 32768 
+Margin Smearing Width: 32768 
+
+Margin Position: 32768 
+Margin Smearing Width: 16384 
+Margin Position: 49152 
+Margin Smearing Width: 16384 
+
+Margin Position: 49152 
+Margin Smearing Width: 8192 
+Margin Position: 57344 
+Margin Smearing Width: 8192 
+
+Margin Position: 57344 
+Margin Smearing Width: 4096 
+
+Margin Position: 57344 
+Margin Smearing Width: 2048 
+Margin Position: 59392 
+Margin Smearing Width: 2048 
+
+Margin Position: 59392 
+Margin Smearing Width: 1024 
+Margin Position: 60416 
+Margin Smearing Width: 1024 
+Margin Position: 61440 
+Margin Smearing Width: 1024 
+
+Margin Position: 61440 
+Margin Smearing Width: 512 
+Margin Position: 61952 
+Margin Smearing Width: 512 
+
+Margin Position: 61952 
+Margin Smearing Width: 256 
+Margin Position: 62208 
+Margin Smearing Width: 256 
+Margin Position: 62464 
+Margin Smearing Width: 256 
+
+Margin Position: 62464 
+Margin Smearing Width: 128 
+Margin Position: 62592 
+Margin Smearing Width: 128 
+
+Margin Position: 62592 
+Margin Smearing Width: 64 
+Margin Position: 62656 
+Margin Smearing Width: 64 
+
+Margin Position: 62656 
+Margin Smearing Width: 32 
+Margin Position: 62688 
+Margin Smearing Width: 32 
+
+Margin Position: 62688 
+Margin Smearing Width: 16 
+
+Margin Position: 62688 
+Margin Smearing Width: 8 
+Margin Position: 62696 
+Margin Smearing Width: 8 
+
+Margin Position: 62696 
+Margin Smearing Width: 4 
+Margin Position: 62700 
+Margin Smearing Width: 4 
+
+Margin Position: 62700 
+Margin Smearing Width: 2 
+
+Margin Position: 62700 
+Margin Smearing Width: 1 
+
+Final Margin Position: 62700 m 
+		[1]Temperature Residual: 23.495665 
+		[2]Temperature Residual: 4.474321 
+		[3]Temperature Residual: 3.387862 
+		[4]Temperature Residual: 2.452649 
+		[5]Temperature Residual: 1.690110 
+		[6]Temperature Residual: 1.175231 
+		[7]Temperature Residual: 0.787873 
+		[8]Temperature Residual: 0.610738 
+		[9]Temperature Residual: 0.426645 
+		[10]Temperature Residual: 0.380265 
+		[11]Temperature Residual: 0.329012 
+		[12]Temperature Residual: 0.424098 
+		[13]Temperature Residual: 0.522408 
+		[14]Temperature Residual: 0.433256 
+		[15]Temperature Residual: 0.614300 
+		[16]Temperature Residual: 0.484032 
+		[17]Temperature Residual: 0.314295 
+		[18]Temperature Residual: 0.598165 
+		[19]Temperature Residual: 0.502407 
+		[20]Temperature Residual: 0.596225 
+		[21]Temperature Residual: 0.424891 
+		[22]Temperature Residual: 0.694811 
+		[23]Temperature Residual: 0.467933 
+		[24]Temperature Residual: 0.410685 
+		[25]Temperature Residual: 0.422689 
+		[26]Temperature Residual: 0.387830 
+		[27]Temperature Residual: 0.453372 
+		[28]Temperature Residual: 0.470416 
+		[29]Temperature Residual: 0.541757 
+		[30]Temperature Residual: 0.440247 
+		[31]Temperature Residual: 0.476117 
+		[32]Temperature Residual: 0.445463 
+		[33]Temperature Residual: 0.342698 
+		[34]Temperature Residual: 0.475377 
+		[35]Temperature Residual: 0.530127 
+		[36]Temperature Residual: 0.388322 
+		[37]Temperature Residual: 0.429637 
+		[38]Temperature Residual: 0.469560 
+		[39]Temperature Residual: 0.430860 
+		[40]Temperature Residual: 0.388655 
+		[41]Temperature Residual: 0.429984 
+		[42]Temperature Residual: 0.398333 
+		[43]Temperature Residual: 0.468439 
+		[44]Temperature Residual: 0.392202 
+		[45]Temperature Residual: 0.700593 
+		[46]Temperature Residual: 0.541908 
+		[47]Temperature Residual: 0.421509 
+		[48]Temperature Residual: 0.488789 
+		[49]Temperature Residual: 0.643857 
+		[50]Temperature Residual: 0.462501 
+		[51]Temperature Residual: 0.426118 
+		[52]Temperature Residual: 0.337945 
+		[53]Temperature Residual: 0.361312 
+		[54]Temperature Residual: 0.666258 
+		[55]Temperature Residual: 0.658293 
+		[56]Temperature Residual: 0.557103 
+		[57]Temperature Residual: 0.389705 
+		[58]Temperature Residual: 0.342559 
+		[59]Temperature Residual: 0.489067 
+		[60]Temperature Residual: 0.573778 
+		[61]Temperature Residual: 0.498427 
+		[62]Temperature Residual: 0.456211 
+		[63]Temperature Residual: 0.521253 
+		[64]Temperature Residual: 0.605529 
+		[65]Temperature Residual: 0.715457 
+		[66]Temperature Residual: 0.473534 
+		[67]Temperature Residual: 0.372240 
+		[68]Temperature Residual: 0.345131 
+		[69]Temperature Residual: 0.645558 
+		[70]Temperature Residual: 0.579447 
+		[71]Temperature Residual: 0.471984 
+		[72]Temperature Residual: 0.389715 
+		[73]Temperature Residual: 0.346515 
+		[74]Temperature Residual: 0.672350 
+		[75]Temperature Residual: 0.630784 
+		[76]Temperature Residual: 0.438019 
+		[77]Temperature Residual: 0.468556 
+		[78]Temperature Residual: 0.416900 
+		[79]Temperature Residual: 0.438862 
+		[80]Temperature Residual: 0.416327 
+		[81]Temperature Residual: 0.591293 
+		[82]Temperature Residual: 0.537642 
+		[83]Temperature Residual: 0.479761 
+		[84]Temperature Residual: 0.392409 
+		[85]Temperature Residual: 0.420371 
+		[86]Temperature Residual: 0.438957 
+		[87]Temperature Residual: 0.728800 
+		[88]Temperature Residual: 0.520552 
+		[89]Temperature Residual: 0.482316 
+		[90]Temperature Residual: 0.386221 
+		[91]Temperature Residual: 0.463972 
+		[92]Temperature Residual: 0.391077 
+		[93]Temperature Residual: 0.414694 
+		[94]Temperature Residual: 0.421507 
+		[95]Temperature Residual: 0.494865 
+		[96]Temperature Residual: 0.511162 
+		[97]Temperature Residual: 0.444220 
+		[98]Temperature Residual: 0.349375 
+		[99]Temperature Residual: 0.348188 
+		[100]Temperature Residual: 0.350523 
+*****     Time: 0     *****
+Margin Position: 0 
+Margin Smearing Width: 32768 
+Margin Position: 32768 
+Margin Smearing Width: 32768 
+
+Margin Position: 32768 
+Margin Smearing Width: 16384 
+Margin Position: 49152 
+Margin Smearing Width: 16384 
+
+Margin Position: 49152 
+Margin Smearing Width: 8192 
+Margin Position: 57344 
+Margin Smearing Width: 8192 
+
+Margin Position: 57344 
+Margin Smearing Width: 4096 
+
+Margin Position: 57344 
+Margin Smearing Width: 2048 
+Margin Position: 59392 
+Margin Smearing Width: 2048 
+
+Margin Position: 59392 
+Margin Smearing Width: 1024 
+Margin Position: 60416 
+Margin Smearing Width: 1024 
+Margin Position: 61440 
+Margin Smearing Width: 1024 
+
+Margin Position: 61440 
+Margin Smearing Width: 512 
+Margin Position: 61952 
+Margin Smearing Width: 512 
+
+Margin Position: 61952 
+Margin Smearing Width: 256 
+Margin Position: 62208 
+Margin Smearing Width: 256 
+Margin Position: 62464 
+Margin Smearing Width: 256 
+
+Margin Position: 62464 
+Margin Smearing Width: 128 
+Margin Position: 62592 
+Margin Smearing Width: 128 
+
+Margin Position: 62592 
+Margin Smearing Width: 64 
+Margin Position: 62656 
+Margin Smearing Width: 64 
+
+Margin Position: 62656 
+Margin Smearing Width: 32 
+Margin Position: 62688 
+Margin Smearing Width: 32 
+
+Margin Position: 62688 
+Margin Smearing Width: 16 
+
+Margin Position: 62688 
+Margin Smearing Width: 8 
+Margin Position: 62696 
+Margin Smearing Width: 8 
+
+Margin Position: 62696 
+Margin Smearing Width: 4 
+Margin Position: 62700 
+Margin Smearing Width: 4 
+
+Margin Position: 62700 
+Margin Smearing Width: 2 
+
+Margin Position: 62700 
+Margin Smearing Width: 1 
+
+Final Margin Position: 62700 m 
+		[1]Temperature Residual: 25.965576 
+		[2]Temperature Residual: 4.707118 
+		[3]Temperature Residual: 3.608316 
+		[4]Temperature Residual: 2.663913 
+		[5]Temperature Residual: 1.829983 
+		[6]Temperature Residual: 1.296916 
+		[7]Temperature Residual: 0.906184 
+		[8]Temperature Residual: 0.669153 
+		[9]Temperature Residual: 0.442097 
+		[10]Temperature Residual: 0.396271 
+		[11]Temperature Residual: 0.319000 
+		[12]Temperature Residual: 0.381459 
+		[13]Temperature Residual: 0.440932 
+		[14]Temperature Residual: 0.417634 
+		[15]Temperature Residual: 0.589662 
+		[16]Temperature Residual: 0.491367 
+		[17]Temperature Residual: 0.388424 
+		[18]Temperature Residual: 0.354788 
+		[19]Temperature Residual: 0.418488 
+		[20]Temperature Residual: 0.478229 
+		[21]Temperature Residual: 0.403703 
+		[22]Temperature Residual: 0.427016 
+		[23]Temperature Residual: 0.466286 
+		[24]Temperature Residual: 0.459642 
+		[25]Temperature Residual: 0.494986 
+		[26]Temperature Residual: 0.376774 
+		[27]Temperature Residual: 0.325822 
+		[28]Temperature Residual: 0.510709 
+		[29]Temperature Residual: 0.451574 
+		[30]Temperature Residual: 0.362436 
+		[31]Temperature Residual: 0.571788 
+		[32]Temperature Residual: 0.452484 
+		[33]Temperature Residual: 0.598407 
+		[34]Temperature Residual: 0.582188 
+		[35]Temperature Residual: 0.403364 
+		[36]Temperature Residual: 0.359889 
+		[37]Temperature Residual: 0.360210 
+		[38]Temperature Residual: 0.645266 
+		[39]Temperature Residual: 0.497722 
+		[40]Temperature Residual: 0.427487 
+		[41]Temperature Residual: 0.381399 
+		[42]Temperature Residual: 0.466357 
+		[43]Temperature Residual: 0.487010 
+		[44]Temperature Residual: 0.413689 
+		[45]Temperature Residual: 0.351883 
+		[46]Temperature Residual: 0.483741 
+		[47]Temperature Residual: 0.458573 
+		[48]Temperature Residual: 0.613539 
+		[49]Temperature Residual: 0.418446 
+		[50]Temperature Residual: 0.426736 
+		[51]Temperature Residual: 0.379994 
+		[52]Temperature Residual: 0.442682 
+		[53]Temperature Residual: 0.539942 
+		[54]Temperature Residual: 0.419129 
+		[55]Temperature Residual: 0.609480 
+		[56]Temperature Residual: 0.440831 
+		[57]Temperature Residual: 0.344817 
+		[58]Temperature Residual: 0.608508 
+		[59]Temperature Residual: 0.446991 
+		[60]Temperature Residual: 0.407653 
+		[61]Temperature Residual: 0.344293 
+		[62]Temperature Residual: 0.415811 
+		[63]Temperature Residual: 0.395371 
+		[64]Temperature Residual: 0.462036 
+		[65]Temperature Residual: 0.392494 
+		[66]Temperature Residual: 0.583665 
+		[67]Temperature Residual: 0.474988 
+		[68]Temperature Residual: 0.399618 
+		[69]Temperature Residual: 0.349003 
+		[70]Temperature Residual: 0.495143 
+		[71]Temperature Residual: 0.430428 
+		[72]Temperature Residual: 0.535607 
+		[73]Temperature Residual: 0.425194 
+		[74]Temperature Residual: 0.447527 
+		[75]Temperature Residual: 0.483270 
+		[76]Temperature Residual: 0.430932 
+		[77]Temperature Residual: 0.467497 
+		[78]Temperature Residual: 0.670712 
+		[79]Temperature Residual: 0.472215 
+		[80]Temperature Residual: 0.398206 
+		[81]Temperature Residual: 0.350174 
+		[82]Temperature Residual: 0.670717 
+		[83]Temperature Residual: 0.469656 
+		[84]Temperature Residual: 0.426950 
+		[85]Temperature Residual: 0.408755 
+		[86]Temperature Residual: 0.441114 
+		[87]Temperature Residual: 0.404212 
+		[88]Temperature Residual: 0.362578 
+		[89]Temperature Residual: 0.498449 
+		[90]Temperature Residual: 0.453214 
+		[91]Temperature Residual: 0.466576 
+		[92]Temperature Residual: 0.349023 
+		[93]Temperature Residual: 0.413754 
+		[94]Temperature Residual: 0.403027 
+		[95]Temperature Residual: 0.410335 
+		[96]Temperature Residual: 0.564053 
+		[97]Temperature Residual: 0.556113 
+		[98]Temperature Residual: 0.480377 
+		[99]Temperature Residual: 0.367326 
+		[100]Temperature Residual: 0.378112 
+*****     Time: 0     *****
+Margin Position: 0 
+Margin Smearing Width: 32768 
+Margin Position: 32768 
+Margin Smearing Width: 32768 
+
+Margin Position: 32768 
+Margin Smearing Width: 16384 
+Margin Position: 49152 
+Margin Smearing Width: 16384 
+
+Margin Position: 49152 
+Margin Smearing Width: 8192 
+Margin Position: 57344 
+Margin Smearing Width: 8192 
+
+Margin Position: 57344 
+Margin Smearing Width: 4096 
+
+Margin Position: 57344 
+Margin Smearing Width: 2048 
+Margin Position: 59392 
+Margin Smearing Width: 2048 
+
+Margin Position: 59392 
+Margin Smearing Width: 1024 
+Margin Position: 60416 
+Margin Smearing Width: 1024 
+Margin Position: 61440 
+Margin Smearing Width: 1024 
+
+Margin Position: 61440 
+Margin Smearing Width: 512 
+Margin Position: 61952 
+Margin Smearing Width: 512 
+
+Margin Position: 61952 
+Margin Smearing Width: 256 
+Margin Position: 62208 
+Margin Smearing Width: 256 
+Margin Position: 62464 
+Margin Smearing Width: 256 
+
+Margin Position: 62464 
+Margin Smearing Width: 128 
+Margin Position: 62592 
+Margin Smearing Width: 128 
+
+Margin Position: 62592 
+Margin Smearing Width: 64 
+Margin Position: 62656 
+Margin Smearing Width: 64 
+
+Margin Position: 62656 
+Margin Smearing Width: 32 
+Margin Position: 62688 
+Margin Smearing Width: 32 
+
+Margin Position: 62688 
+Margin Smearing Width: 16 
+
+Margin Position: 62688 
+Margin Smearing Width: 8 
+Margin Position: 62696 
+Margin Smearing Width: 8 
+
+Margin Position: 62696 
+Margin Smearing Width: 4 
+Margin Position: 62700 
+Margin Smearing Width: 4 
+
+Margin Position: 62700 
+Margin Smearing Width: 2 
+
+Margin Position: 62700 
+Margin Smearing Width: 1 
+
+Final Margin Position: 62700 m 
+		[1]Temperature Residual: 29.581610 
+		[2]Temperature Residual: 4.996994 
+		[3]Temperature Residual: 3.888924 
+		[4]Temperature Residual: 2.928585 
+		[5]Temperature Residual: 2.093853 
+		[6]Temperature Residual: 1.441054 
+		[7]Temperature Residual: 1.028500 
+		[8]Temperature Residual: 0.759283 
+		[9]Temperature Residual: 0.525211 
+		[10]Temperature Residual: 0.404864 
+		[11]Temperature Residual: 0.333795 
+		[12]Temperature Residual: 0.362966 
+		[13]Temperature Residual: 0.406272 
+		[14]Temperature Residual: 0.388940 
+		[15]Temperature Residual: 0.666645 
+		[16]Temperature Residual: 0.487792 
+		[17]Temperature Residual: 0.524628 
+		[18]Temperature Residual: 0.471556 
+		[19]Temperature Residual: 0.379742 
+		[20]Temperature Residual: 0.432209 
+		[21]Temperature Residual: 0.456809 
+		[22]Temperature Residual: 0.446053 
+		[23]Temperature Residual: 0.573867 
+		[24]Temperature Residual: 0.472326 
+		[25]Temperature Residual: 0.528019 
+		[26]Temperature Residual: 0.460237 
+		[27]Temperature Residual: 0.764828 
+		[28]Temperature Residual: 0.543917 
+		[29]Temperature Residual: 0.509086 
+		[30]Temperature Residual: 0.446313 
+		[31]Temperature Residual: 0.716071 
+		[32]Temperature Residual: 0.463287 
+		[33]Temperature Residual: 0.415198 
+		[34]Temperature Residual: 0.350082 
+		[35]Temperature Residual: 0.412503 
+		[36]Temperature Residual: 0.423278 
+		[37]Temperature Residual: 0.685968 
+		[38]Temperature Residual: 0.617413 
+		[39]Temperature Residual: 0.454890 
+		[40]Temperature Residual: 0.488269 
+		[41]Temperature Residual: 0.337416 
+		[42]Temperature Residual: 0.396710 
+		[43]Temperature Residual: 0.342261 
+		[44]Temperature Residual: 0.445443 
+		[45]Temperature Residual: 0.445132 
+		[46]Temperature Residual: 0.821157 
+		[47]Temperature Residual: 0.616122 
+		[48]Temperature Residual: 0.586601 
+		[49]Temperature Residual: 0.420186 
+		[50]Temperature Residual: 0.505186 
+		[51]Temperature Residual: 0.377695 
+		[52]Temperature Residual: 0.444657 
+		[53]Temperature Residual: 0.401498 
+		[54]Temperature Residual: 0.445850 
+		[55]Temperature Residual: 0.759887 
+		[56]Temperature Residual: 0.956341 
+		[57]Temperature Residual: 0.631776 
+		[58]Temperature Residual: 0.398487 
+		[59]Temperature Residual: 0.355817 
+		[60]Temperature Residual: 0.495821 
+		[61]Temperature Residual: 0.429369 
+		[62]Temperature Residual: 0.409535 
+		[63]Temperature Residual: 0.619856 
+		[64]Temperature Residual: 0.488666 
+		[65]Temperature Residual: 0.544373 
+		[66]Temperature Residual: 0.986258 
+		[67]Temperature Residual: 0.709630 
+		[68]Temperature Residual: 0.504723 
+		[69]Temperature Residual: 0.515197 
+		[70]Temperature Residual: 0.455537 
+		[71]Temperature Residual: 0.501246 
+		[72]Temperature Residual: 0.421995 
+		[73]Temperature Residual: 0.352171 
+		[74]Temperature Residual: 0.368157 
+		[75]Temperature Residual: 0.903486 
+		[76]Temperature Residual: 0.714497 
+		[77]Temperature Residual: 0.457924 
+		[78]Temperature Residual: 0.427173 
+		[79]Temperature Residual: 0.377019 
+		[80]Temperature Residual: 0.421433 
+		[81]Temperature Residual: 0.393589 
+		[82]Temperature Residual: 0.365636 
+		[83]Temperature Residual: 0.562670 
+		[84]Temperature Residual: 0.411473 
+		[85]Temperature Residual: 0.613780 
+		[86]Temperature Residual: 0.492091 
+		[87]Temperature Residual: 0.533743 
+		[88]Temperature Residual: 0.491129 
+		[89]Temperature Residual: 0.366269 
+		[90]Temperature Residual: 0.456659 
+		[91]Temperature Residual: 0.433946 
+		[92]Temperature Residual: 0.409069 
+		[93]Temperature Residual: 0.369352 
+		[94]Temperature Residual: 0.627655 
+		[95]Temperature Residual: 0.520812 
+		[96]Temperature Residual: 0.741731 
+		[97]Temperature Residual: 0.503788 
+		[98]Temperature Residual: 0.320679 
+		[99]Temperature Residual: 0.328567 
+		[100]Temperature Residual: 0.377692 
+*****     Time: 0     *****
+Margin Position: 0 
+Margin Smearing Width: 32768 
+Margin Position: 32768 
+Margin Smearing Width: 32768 
+
+Margin Position: 32768 
+Margin Smearing Width: 16384 
+Margin Position: 49152 
+Margin Smearing Width: 16384 
+
+Margin Position: 49152 
+Margin Smearing Width: 8192 
+Margin Position: 57344 
+Margin Smearing Width: 8192 
+
+Margin Position: 57344 
+Margin Smearing Width: 4096 
+
+Margin Position: 57344 
+Margin Smearing Width: 2048 
+Margin Position: 59392 
+Margin Smearing Width: 2048 
+
+Margin Position: 59392 
+Margin Smearing Width: 1024 
+Margin Position: 60416 
+Margin Smearing Width: 1024 
+Margin Position: 61440 
+Margin Smearing Width: 1024 
+
+Margin Position: 61440 
+Margin Smearing Width: 512 
+Margin Position: 61952 
+Margin Smearing Width: 512 
+
+Margin Position: 61952 
+Margin Smearing Width: 256 
+Margin Position: 62208 
+Margin Smearing Width: 256 
+Margin Position: 62464 
+Margin Smearing Width: 256 
+
+Margin Position: 62464 
+Margin Smearing Width: 128 
+Margin Position: 62592 
+Margin Smearing Width: 128 
+
+Margin Position: 62592 
+Margin Smearing Width: 64 
+Margin Position: 62656 
+Margin Smearing Width: 64 
+
+Margin Position: 62656 
+Margin Smearing Width: 32 
+Margin Position: 62688 
+Margin Smearing Width: 32 
+
+Margin Position: 62688 
+Margin Smearing Width: 16 
+
+Margin Position: 62688 
+Margin Smearing Width: 8 
+Margin Position: 62696 
+Margin Smearing Width: 8 
+
+Margin Position: 62696 
+Margin Smearing Width: 4 
+Margin Position: 62700 
+Margin Smearing Width: 4 
+
+Margin Position: 62700 
+Margin Smearing Width: 2 
+
+Margin Position: 62700 
+Margin Smearing Width: 1 
+
+Final Margin Position: 62700 m 
+		[1]Temperature Residual: 35.395983 
+		[2]Temperature Residual: 5.369977 
+		[3]Temperature Residual: 4.261217 
+		[4]Temperature Residual: 3.284780 
+		[5]Temperature Residual: 2.443590 
+		[6]Temperature Residual: 1.655922 
+		[7]Temperature Residual: 1.251941 
+		[8]Temperature Residual: 0.881666 
+		[9]Temperature Residual: 0.647012 
+		[10]Temperature Residual: 0.477716 
+		[11]Temperature Residual: 0.403925 
+		[12]Temperature Residual: 0.381330 
+		[13]Temperature Residual: 0.463604 
+		[14]Temperature Residual: 1.180160 
+		[15]Temperature Residual: 0.954583 
+		[16]Temperature Residual: 0.575859 
+		[17]Temperature Residual: 0.406504 
+		[18]Temperature Residual: 0.316283 
+		[19]Temperature Residual: 0.317059 
+		[20]Temperature Residual: 0.597254 
+		[21]Temperature Residual: 0.490203 
+		[22]Temperature Residual: 1.313693 
+		[23]Temperature Residual: 0.756489 
+		[24]Temperature Residual: 0.520756 
+		[25]Temperature Residual: 0.430622 
+		[26]Temperature Residual: 0.436503 
+		[27]Temperature Residual: 0.489418 
+		[28]Temperature Residual: 0.471419 
+		[29]Temperature Residual: 0.515920 
+		[30]Temperature Residual: 1.539084 
+		[31]Temperature Residual: 0.802519 
+		[32]Temperature Residual: 0.576791 
+		[33]Temperature Residual: 0.484307 
+		[34]Temperature Residual: 0.395047 
+		[35]Temperature Residual: 0.598053 
+		[36]Temperature Residual: 0.425261 
+		[37]Temperature Residual: 0.422231 
+		[38]Temperature Residual: 0.661355 
+		[39]Temperature Residual: 0.607975 
+		[40]Temperature Residual: 0.524324 
+		[41]Temperature Residual: 0.435692 
+		[42]Temperature Residual: 0.434029 
+		[43]Temperature Residual: 0.389684 
+		[44]Temperature Residual: 0.416878 
+		[45]Temperature Residual: 2.110900 
+		[46]Temperature Residual: 0.879668 
+		[47]Temperature Residual: 0.683814 
+		[48]Temperature Residual: 0.454633 
+		[49]Temperature Residual: 0.393232 
+		[50]Temperature Residual: 0.368738 
+		[51]Temperature Residual: 0.308096 
+		[52]Temperature Residual: 0.475026 
+		[53]Temperature Residual: 0.915786 
+		[54]Temperature Residual: 0.612305 
+		[55]Temperature Residual: 1.046336 
+		[56]Temperature Residual: 0.625309 
+		[57]Temperature Residual: 0.565123 
+		[58]Temperature Residual: 0.474655 
+		[59]Temperature Residual: 0.601568 
+		[60]Temperature Residual: 0.561781 
+		[61]Temperature Residual: 0.539794 
+		[62]Temperature Residual: 0.447557 
+		[63]Temperature Residual: 0.769331 
+		[64]Temperature Residual: 0.540401 
+		[65]Temperature Residual: 0.946697 
+		[66]Temperature Residual: 0.606097 
+		[67]Temperature Residual: 0.478993 
+		[68]Temperature Residual: 0.410397 
+		[69]Temperature Residual: 0.498707 
+		[70]Temperature Residual: 0.510787 
+		[71]Temperature Residual: 0.593100 
+		[72]Temperature Residual: 0.485349 
+		[73]Temperature Residual: 0.988743 
+		[74]Temperature Residual: 0.636667 
+		[75]Temperature Residual: 0.485821 
+		[76]Temperature Residual: 0.431078 
+		[77]Temperature Residual: 0.603338 
+		[78]Temperature Residual: 0.493404 
+		[79]Temperature Residual: 1.300697 
+		[80]Temperature Residual: 0.640109 
+		[81]Temperature Residual: 0.875268 
+		[82]Temperature Residual: 0.549622 
+		[83]Temperature Residual: 0.478796 
+		[84]Temperature Residual: 0.489046 
+		[85]Temperature Residual: 0.461025 
+		[86]Temperature Residual: 0.448455 
+		[87]Temperature Residual: 1.304469 
+		[88]Temperature Residual: 0.697930 
+		[89]Temperature Residual: 0.570181 
+		[90]Temperature Residual: 0.449927 
+		[91]Temperature Residual: 0.489478 
+		[92]Temperature Residual: 0.490770 
+		[93]Temperature Residual: 0.543220 
+		[94]Temperature Residual: 0.438862 
+		[95]Temperature Residual: 0.766350 
+		[96]Temperature Residual: 0.705197 
+		[97]Temperature Residual: 0.727456 
+		[98]Temperature Residual: 0.535855 
+		[99]Temperature Residual: 0.437871 
+		[100]Temperature Residual: 0.387316 
+*****     Time: 0     *****
+Margin Position: 0 
+Margin Smearing Width: 32768 
+Margin Position: 32768 
+Margin Smearing Width: 32768 
+
+Margin Position: 32768 
+Margin Smearing Width: 16384 
+Margin Position: 49152 
+Margin Smearing Width: 16384 
+
+Margin Position: 49152 
+Margin Smearing Width: 8192 
+Margin Position: 57344 
+Margin Smearing Width: 8192 
+
+Margin Position: 57344 
+Margin Smearing Width: 4096 
+
+Margin Position: 57344 
+Margin Smearing Width: 2048 
+Margin Position: 59392 
+Margin Smearing Width: 2048 
+
+Margin Position: 59392 
+Margin Smearing Width: 1024 
+Margin Position: 60416 
+Margin Smearing Width: 1024 
+Margin Position: 61440 
+Margin Smearing Width: 1024 
+
+Margin Position: 61440 
+Margin Smearing Width: 512 
+Margin Position: 61952 
+Margin Smearing Width: 512 
+
+Margin Position: 61952 
+Margin Smearing Width: 256 
+Margin Position: 62208 
+Margin Smearing Width: 256 
+Margin Position: 62464 
+Margin Smearing Width: 256 
+
+Margin Position: 62464 
+Margin Smearing Width: 128 
+Margin Position: 62592 
+Margin Smearing Width: 128 
+
+Margin Position: 62592 
+Margin Smearing Width: 64 
+Margin Position: 62656 
+Margin Smearing Width: 64 
+
+Margin Position: 62656 
+Margin Smearing Width: 32 
+Margin Position: 62688 
+Margin Smearing Width: 32 
+
+Margin Position: 62688 
+Margin Smearing Width: 16 
+
+Margin Position: 62688 
+Margin Smearing Width: 8 
+Margin Position: 62696 
+Margin Smearing Width: 8 
+
+Margin Position: 62696 
+Margin Smearing Width: 4 
+Margin Position: 62700 
+Margin Smearing Width: 4 
+
+Margin Position: 62700 
+Margin Smearing Width: 2 
+
+Margin Position: 62700 
+Margin Smearing Width: 1 
+
+Final Margin Position: 62700 m 
+		[1]Temperature Residual: 46.357999 
+		[2]Temperature Residual: 5.873596 
+		[3]Temperature Residual: 4.785466 
+		[4]Temperature Residual: 3.804187 
+		[5]Temperature Residual: 2.940908 
+		[6]Temperature Residual: 2.191377 
+		[7]Temperature Residual: 1.454876 
+		[8]Temperature Residual: 1.269958 
+		[9]Temperature Residual: 0.768914 
+		[10]Temperature Residual: 0.765877 
+		[11]Temperature Residual: 0.552135 
+		[12]Temperature Residual: 0.660397 
+		[13]Temperature Residual: 0.729840 
+		[14]Temperature Residual: 0.683063 
+		[15]Temperature Residual: 1.210146 
+		[16]Temperature Residual: 0.734090 
+		[17]Temperature Residual: 0.675588 
+		[18]Temperature Residual: 0.508141 
+		[19]Temperature Residual: 0.629271 
+		[20]Temperature Residual: 0.982462 
+		[21]Temperature Residual: 0.581545 
+		[22]Temperature Residual: 0.560406 
+		[23]Temperature Residual: 1.303187 
+		[24]Temperature Residual: 0.761803 
+		[25]Temperature Residual: 0.553953 
+		[26]Temperature Residual: 0.414559 
+		[27]Temperature Residual: 0.769497 
+		[28]Temperature Residual: 0.646455 
+		[29]Temperature Residual: 0.572997 
+		[30]Temperature Residual: 0.608024 
+		[31]Temperature Residual: 0.574012 
+		[32]Temperature Residual: 0.697672 
+		[33]Temperature Residual: 0.501316 
+		[34]Temperature Residual: 0.470638 
+		[35]Temperature Residual: 0.516892 
+		[36]Temperature Residual: 1.077346 
+		[37]Temperature Residual: 0.644609 
+		[38]Temperature Residual: 0.915677 
+		[39]Temperature Residual: 0.624881 
+		[40]Temperature Residual: 0.738226 
+		[41]Temperature Residual: 0.563675 
+		[42]Temperature Residual: 0.501413 
+		[43]Temperature Residual: 0.498843 
+		[44]Temperature Residual: 0.500575 
+		[45]Temperature Residual: 1.059406 
+		[46]Temperature Residual: 0.661464 
+		[47]Temperature Residual: 0.573532 
+		[48]Temperature Residual: 0.565501 
+		[49]Temperature Residual: 0.658931 
+		[50]Temperature Residual: 0.737439 
+		[51]Temperature Residual: 0.562488 
+		[52]Temperature Residual: 0.767892 
+		[53]Temperature Residual: 0.571174 
+		[54]Temperature Residual: 0.527716 
+		[55]Temperature Residual: 0.580675 
+		[56]Temperature Residual: 0.439372 
+		[57]Temperature Residual: 1.152191 
+		[58]Temperature Residual: 1.792860 
+		[59]Temperature Residual: 0.838652 
+		[60]Temperature Residual: 0.603338 
+		[61]Temperature Residual: 0.494101 
+		[62]Temperature Residual: 0.737642 
+		[63]Temperature Residual: 0.566461 
+		[64]Temperature Residual: 0.595275 
+		[65]Temperature Residual: 0.826730 
+		[66]Temperature Residual: 1.551663 
+		[67]Temperature Residual: 0.700685 
+		[68]Temperature Residual: 0.514310 
+		[69]Temperature Residual: 0.575173 
+		[70]Temperature Residual: 0.640136 
+		[71]Temperature Residual: 0.588532 
+		[72]Temperature Residual: 0.504411 
+		[73]Temperature Residual: 1.029279 
+		[74]Temperature Residual: 0.696095 
+		[75]Temperature Residual: 0.511434 
+		[76]Temperature Residual: 0.520630 
+		[77]Temperature Residual: 0.508579 
+		[78]Temperature Residual: 0.731845 
+		[79]Temperature Residual: 0.524327 
+		[80]Temperature Residual: 0.428367 
+		[81]Temperature Residual: 1.076170 
+		[82]Temperature Residual: 0.626795 
+		[83]Temperature Residual: 0.724296 
+		[84]Temperature Residual: 0.519664 
+		[85]Temperature Residual: 0.450791 
+		[86]Temperature Residual: 0.499549 
+		[87]Temperature Residual: 0.439789 
+		[88]Temperature Residual: 0.718876 
+		[89]Temperature Residual: 0.520966 
+		[90]Temperature Residual: 0.617071 
+		[91]Temperature Residual: 0.683806 
+		[92]Temperature Residual: 0.501603 
+		[93]Temperature Residual: 0.552547 
+		[94]Temperature Residual: 0.502223 
+		[95]Temperature Residual: 1.562903 
+		[96]Temperature Residual: 0.782289 
+		[97]Temperature Residual: 0.560604 
+		[98]Temperature Residual: 0.445765 
+		[99]Temperature Residual: 0.519863 
+		[100]Temperature Residual: 1.033718 
+*****     Time: 0     *****
+Margin Position: 0 
+Margin Smearing Width: 32768 
+Margin Position: 32768 
+Margin Smearing Width: 32768 
+
+Margin Position: 32768 
+Margin Smearing Width: 16384 
+Margin Position: 49152 
+Margin Smearing Width: 16384 
+
+Margin Position: 49152 
+Margin Smearing Width: 8192 
+Margin Position: 57344 
+Margin Smearing Width: 8192 
+
+Margin Position: 57344 
+Margin Smearing Width: 4096 
+
+Margin Position: 57344 
+Margin Smearing Width: 2048 
+Margin Position: 59392 
+Margin Smearing Width: 2048 
+
+Margin Position: 59392 
+Margin Smearing Width: 1024 
+Margin Position: 60416 
+Margin Smearing Width: 1024 
+Margin Position: 61440 
+Margin Smearing Width: 1024 
+
+Margin Position: 61440 
+Margin Smearing Width: 512 
+Margin Position: 61952 
+Margin Smearing Width: 512 
+
+Margin Position: 61952 
+Margin Smearing Width: 256 
+Margin Position: 62208 
+Margin Smearing Width: 256 
+Margin Position: 62464 
+Margin Smearing Width: 256 
+
+Margin Position: 62464 
+Margin Smearing Width: 128 
+Margin Position: 62592 
+Margin Smearing Width: 128 
+
+Margin Position: 62592 
+Margin Smearing Width: 64 
+Margin Position: 62656 
+Margin Smearing Width: 64 
+
+Margin Position: 62656 
+Margin Smearing Width: 32 
+Margin Position: 62688 
+Margin Smearing Width: 32 
+
+Margin Position: 62688 
+Margin Smearing Width: 16 
+
+Margin Position: 62688 
+Margin Smearing Width: 8 
+Margin Position: 62696 
+Margin Smearing Width: 8 
+
+Margin Position: 62696 
+Margin Smearing Width: 4 
+Margin Position: 62700 
+Margin Smearing Width: 4 
+
+Margin Position: 62700 
+Margin Smearing Width: 2 
+
+Margin Position: 62700 
+Margin Smearing Width: 1 
+
+Final Margin Position: 62700 m 
+		[1]Temperature Residual: 75.521718 
+		[2]Temperature Residual: 6.615106 
+		[3]Temperature Residual: 5.603613 
+		[4]Temperature Residual: 4.665430 
+		[5]Temperature Residual: 3.805333 
+		[6]Temperature Residual: 3.028764 
+		[7]Temperature Residual: 2.334370 
+		[8]Temperature Residual: 1.720517 
+		[9]Temperature Residual: 1.223742 
+		[10]Temperature Residual: 1.071123 
+		[11]Temperature Residual: 0.862275 
+		[12]Temperature Residual: 0.688640 
+		[13]Temperature Residual: 0.834040 
+		[14]Temperature Residual: 0.786798 
+		[15]Temperature Residual: 1.663363 
+		[16]Temperature Residual: 0.828555 
+		[17]Temperature Residual: 0.540955 
+		[18]Temperature Residual: 0.528340 
+		[19]Temperature Residual: 0.844397 
+		[20]Temperature Residual: 0.677457 
+		[21]Temperature Residual: 0.622835 
+		[22]Temperature Residual: 1.137254 
+		[23]Temperature Residual: 0.711999 
+		[24]Temperature Residual: 1.003416 
+		[25]Temperature Residual: 0.711494 
+		[26]Temperature Residual: 0.841130 
+		[27]Temperature Residual: 0.656951 
+		[28]Temperature Residual: 0.700225 
+		[29]Temperature Residual: 0.649449 
+		[30]Temperature Residual: 0.552414 
+		[31]Temperature Residual: 0.597872 
+		[32]Temperature Residual: 0.969837 
+		[33]Temperature Residual: 0.581053 
+		[34]Temperature Residual: 3.341514 
+		[35]Temperature Residual: 1.023991 
+		[36]Temperature Residual: 0.828293 
+		[37]Temperature Residual: 0.861904 
+		[38]Temperature Residual: 0.614326 
+		[39]Temperature Residual: 0.744437 
+		[40]Temperature Residual: 0.557816 
+		[41]Temperature Residual: 1.167692 
+		[42]Temperature Residual: 0.873026 
+		[43]Temperature Residual: 0.818151 
+		[44]Temperature Residual: 0.883006 
+		[45]Temperature Residual: 0.693767 
+		[46]Temperature Residual: 0.807400 
+		[47]Temperature Residual: 0.529847 
+		[48]Temperature Residual: 0.739006 
+		[49]Temperature Residual: 0.632881 
+		[50]Temperature Residual: 0.502872 
+		[51]Temperature Residual: 0.574637 
+		[52]Temperature Residual: 0.650676 
+		[53]Temperature Residual: 0.537068 
+		[54]Temperature Residual: 0.511188 
+		[55]Temperature Residual: 0.622125 
+		[56]Temperature Residual: 1.531017 
+		[57]Temperature Residual: 0.746469 
+		[58]Temperature Residual: 0.653963 
+		[59]Temperature Residual: 0.637662 
+		[60]Temperature Residual: 0.769849 
+		[61]Temperature Residual: 0.611316 
+		[62]Temperature Residual: 1.019407 
+		[63]Temperature Residual: 2.048200 
+		[64]Temperature Residual: 0.855408 
+		[65]Temperature Residual: 1.030227 
+		[66]Temperature Residual: 0.635500 
+		[67]Temperature Residual: 0.720178 
+		[68]Temperature Residual: 0.594695 
+		[69]Temperature Residual: 0.770589 
+		[70]Temperature Residual: 0.677254 
+		[71]Temperature Residual: 0.544249 
+		[72]Temperature Residual: 0.585466 
+		[73]Temperature Residual: 1.192286 
+		[74]Temperature Residual: 0.753424 
+		[75]Temperature Residual: 0.586335 
+		[76]Temperature Residual: 0.558734 
+		[77]Temperature Residual: 0.813054 
+		[78]Temperature Residual: 1.488059 
+		[79]Temperature Residual: 0.924537 
+		[80]Temperature Residual: 0.696368 
+		[81]Temperature Residual: 0.605208 
+		[82]Temperature Residual: 1.159786 
+		[83]Temperature Residual: 0.640624 
+		[84]Temperature Residual: 1.354506 
+		[85]Temperature Residual: 0.671171 
+		[86]Temperature Residual: 0.790151 
+		[87]Temperature Residual: 0.560795 
+		[88]Temperature Residual: 0.473028 
+		[89]Temperature Residual: 0.524187 
+		[90]Temperature Residual: 0.630827 
+		[91]Temperature Residual: 0.575549 
+		[92]Temperature Residual: 0.540368 
+		[93]Temperature Residual: 0.514710 
+		[94]Temperature Residual: 1.408259 
+		[95]Temperature Residual: 1.540449 
+		[96]Temperature Residual: 0.806965 
+		[97]Temperature Residual: 0.630492 
+		[98]Temperature Residual: 0.572300 
+		[99]Temperature Residual: 0.608932 
+		[100]Temperature Residual: 0.707221 
+*****     Time: 0     *****
+Margin Position: 0 
+Margin Smearing Width: 32768 
+Margin Position: 32768 
+Margin Smearing Width: 32768 
+Margin Position: 65536 
+Margin Smearing Width: 32768 
+Margin Position: 98304 
+Margin Smearing Width: 32768 
+Margin Position: 131072 
+Margin Smearing Width: 32768 
