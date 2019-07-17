@@ -1,6 +1,7 @@
 function [T] = thermalModel(m,n,nT,y,dy,dz,T,T_prev,dt,k,c,tau_E,epsilon_E,...
                             rho,w,v,northT,southT,eastT,westT,T_m,T_atm,...
-                            G_base,u_base,tau_base,smearT,timeDepFlag,MTP)
+                            G_base,u_base,tau_base,smearT,timeDepFlag,MTP,...
+                            thermalEnhancement)
 %Solves thermal model
 
 %%%%%     Property fields     %%%%%
@@ -14,8 +15,7 @@ if (n == nT) %w/o till
     %Build System
     M = secondOrderLaplacian2D(m,n,dy,dz,k,ones(m*n,1));
     b = -(1-H_t).*(2*tau_E.*epsilon_E); %b: shear heating[Pa/s]
-%%%%%%%%%%     Note: change thermal heating factor here     %%%%%%%%%%
-    b = 1*b;
+    b = thermalEnhancement*b;
     if (timeDepFlag == 1)
         M = speye(m*n,m*n) - (dt/rho)*secondOrderLaplacian2D(m,n,dy,dz,k,1./c);
         b = T_prev - (dt/(rho*c))*b;

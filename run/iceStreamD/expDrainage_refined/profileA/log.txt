@@ -1,3 +1,0 @@
-*****     Time: 0     *****
-Margin Position: 0 
-Margin Smearing Width: 16384 
