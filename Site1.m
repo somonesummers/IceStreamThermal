@@ -77,7 +77,7 @@ end
 
 
 %% %% %% %% %%     Visualization     %% %% %% %% %%
-save data.mat
+save data2.mat
 figure
 plotSurfaceVelocity(m,n,y,u);
 figure

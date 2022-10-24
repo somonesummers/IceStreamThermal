@@ -9,7 +9,7 @@ tic
 m = 3400/2+1;
 n = 180/2+1; %m,n: dimensions of triangulation
 Y = 34e3;
-Z = 3e3; %Y,Z: dimensions of domain[m]
+Z = 1.8e3; %Y,Z: dimensions of domain[m]
 Z_till = 0; %Z_till: till thickness [m]
 %Time
 endT = 0; %endT: final time [s]
@@ -32,7 +32,7 @@ tol = 1e-3; %tol: rheological and thermal error tolerance []
 [rho,g,alpha,L,G_base,k1,k2,c1,c2,T_m,T_atm,...
  dy,dz,y,z,zT,nT,t,north,south,east,west,...
  northT,southT,eastT,westT,w,v] = initConstants(m,n,Y,Z,Z_till,endT,dt,v_0,a);
-alpha = .0012;
+alpha = .0037;
 %%%%%     Pseudo-Initial Conditions     %%%%%
 u(:,1) = zeros(m*n,1); %u: velocity[m/s]
 T(:,1) = 260.15*ones(m*nT,1); %T: temperature[K]
@@ -44,7 +44,7 @@ c(:,1) = c1 + c2.*T; %c: specific heat[J/kg*K]
 drivingRamp = 1; %drivingRamp: enhancement of driving stress []
 thermalEnhancement = 1; %thermalEnhancement: enhancement of shear heating []
 enforcedMargin = 17e3; %enforcedMargin: margin location [m]
-tau_base = -[2.07e4*ones(floor(enforcedMargin*m/Y),1);...
+tau_base = -[5.1e4*ones(floor(enforcedMargin*m/Y),1);...
              1e7*ones(m-floor(enforcedMargin*m/Y),1)];
 %tau_base: basal yield stress [Pa]
 
@@ -77,11 +77,11 @@ end
 
 
 %% %% %% %% %%     Visualization     %% %% %% %% %%
-save data.mat
+% save data1.mat
 figure
 plotSurfaceVelocity(m,n,y,u);
 figure
 plotBasalStress(0,0,m,y,dz,Z,rho,g,alpha,tau_base,mu,u,MTP);
 figure
 plotTemperatureField(m,nT,y,zT,T,T_m);
-toc
+% toc
