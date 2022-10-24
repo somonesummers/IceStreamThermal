@@ -80,3 +80,11 @@ end
 %% %% %% %% %%     Visualization     %% %% %% %% %%
 save data_sherlock.mat
 toc
+% save data1.mat
+figure
+plotSurfaceVelocity(m,n,y,u);
+figure
+plotBasalStress(0,0,m,y,dz,Z,rho,g,alpha,tau_base,mu,u,MTP);
+figure
+plotTemperatureField(m,nT,y,zT,T,T_m);
+% toc

@@ -1,4 +1,6 @@
 *._*
 log.txt
 *~
+*.asv
+*.mat
 .DS_Store
