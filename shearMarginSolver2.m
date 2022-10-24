@@ -25,8 +25,8 @@ iceRheol = 3; %iceRheol: ice rheology choice []
 marginSolveType = 2;
 %1: self-consistent margin  %2: choose margin location
 %Coupling
-omegaT = 0.1; %omegaT: thermal relaxation parameter []
-omegaM = 0.2; %omegaR: rheology relaxation parameter []
+omegaT = 0.3; %omegaT: thermal relaxation parameter []
+omegaM = 0.5; %omegaR: rheology relaxation parameter []
 tol = 1e-3; %tol: rheological and thermal error tolerance []
 %Initialize constants
 [rho,g,alpha,L,G_base,k1,k2,c1,c2,T_m,T_atm,...
