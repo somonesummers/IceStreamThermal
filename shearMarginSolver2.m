@@ -32,7 +32,7 @@ tol = 1e-3; %tol: rheological and thermal error tolerance []
 [rho,g,alpha,L,G_base,k1,k2,c1,c2,T_m,T_atm,...
  dy,dz,y,z,zT,nT,t,north,south,east,west,...
  northT,southT,eastT,westT,w,v] = initConstants(m,n,Y,Z,Z_till,endT,dt,v_0,a);
-alpha = .0012;
+
 %%%%%     Pseudo-Initial Conditions     %%%%%
 u(:,1) = zeros(m*n,1); %u: velocity[m/s]
 T(:,1) = 260.15*ones(m*nT,1); %T: temperature[K]
