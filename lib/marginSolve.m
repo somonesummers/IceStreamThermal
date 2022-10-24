@@ -57,7 +57,7 @@ for jj = 0:jjRange
         %Rheological Model
         if any(iceRheol==[2,3,4])
             [mu,resM] = mechRelax(m,n,nT,z,T,mu,tau_E,rho,g,omegaM,iceRheol);
-            fprintf(fID,'\t[%d]Viscosity Residual: %f \n',i,resM);
+  	          fprintf(fID,'\t[%d]Viscosity Residual: %f \n',i,resM);
             if resM < tol
                 break
             end
