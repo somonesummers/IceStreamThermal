@@ -1,6 +1,6 @@
 clear all; clc; path(pathdef);
 addpath('lib/','lib/vis')
-fID = fopen('log.txt','w');
+fID = fopen('logTest.txt','w');
 tic
 %% %% %% %% %%     Initialization     %% %% %% %% %%
 
@@ -25,13 +25,14 @@ iceRheol = 3; %iceRheol: ice rheology choice []
 marginSolveType = 2;
 %1: self-consistent margin  %2: choose margin location
 %Coupling
-omegaT = 0.3; %omegaT: thermal relaxation parameter []
-omegaM = 0.5; %omegaR: rheology relaxation parameter []
+omegaT = 0.1; %omegaT: thermal relaxation parameter []
+omegaM = 0.2; %omegaR: rheology relaxation parameter []
 tol = 1e-3; %tol: rheological and thermal error tolerance []
 %Initialize constants
 [rho,g,alpha,L,G_base,k1,k2,c1,c2,T_m,T_atm,...
  dy,dz,y,z,zT,nT,t,north,south,east,west,...
  northT,southT,eastT,westT,w,v] = initConstants(m,n,Y,Z,Z_till,endT,dt,v_0,a);
+alpha = .0012;
 %%%%%     Pseudo-Initial Conditions     %%%%%
 u(:,1) = zeros(m*n,1); %u: velocity[m/s]
 T(:,1) = 260.15*ones(m*nT,1); %T: temperature[K]
@@ -76,7 +77,7 @@ end
 
 
 %% %% %% %% %%     Visualization     %% %% %% %% %%
-save data2.mat
+save data_sherlock.mat
 figure
 plotSurfaceVelocity(m,n,y,u);
 figure

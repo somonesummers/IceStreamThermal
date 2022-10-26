@@ -37,7 +37,7 @@ southT = (1:m)';
 eastT = (m:m:nT*m)';
 westT = (1:m:m*(nT-1)+1)'; %north,...: thermal boundary node numbers on each face
 v = v_0*y; %v: horizontal advection [m/s]
-w = (-a*3.169e-8/Z)*z; %w: vertical advection [m/s]
+w = (-a*3.169e-8/Z)*z; %w: vertical advection [m/s] ice
 
 end
 
