@@ -1,6 +1,8 @@
 *._*
 log.txt
 *~
+*matlab*.err
+*matlab*.out
 *.asv
 *.mat
 .DS_Store
