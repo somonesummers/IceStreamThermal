@@ -4,6 +4,7 @@ fID = fopen('logTest.txt','w');
 tic
 %% %% %% %% %%     Initialization     %% %% %% %% %%
 
+%this is a test change, hi SIGMA!
 %%%%     Runtime variables     %%%%%
 %Domain
 m = 3400/10+1;
