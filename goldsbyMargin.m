@@ -3,11 +3,11 @@ addpath('lib/','lib/vis')
 fID = fopen('log.txt','w');
 tic
 %% %% %% %% %%     Initialization     %% %% %% %% %%
-disp('Starting run')
+
 %%%%     Runtime variables     %%%%%
 %Domain
-m = 3400/2+1;
-n = 180/2+1; %m,n: dimensions of triangulation
+m = 3400/10+1;
+n = 180/10+1; %m,n: dimensions of triangulation
 Y = 34e3;
 Z = 1.8e3; %Y,Z: dimensions of domain[m]
 Z_till = 0; %Z_till: till thickness [m]
@@ -32,7 +32,7 @@ tol = 1e-3; %tol: rheological and thermal error tolerance []
 [rho,g,alpha,L,G_base,k1,k2,c1,c2,T_m,T_atm,...
  dy,dz,y,z,zT,nT,t,north,south,east,west,...
  northT,southT,eastT,westT,w,v] = initConstants(m,n,Y,Z,Z_till,endT,dt,v_0,a);
-alpha = .0037;
+alpha = .0039;
 %%%%%     Pseudo-Initial Conditions     %%%%%
 u(:,1) = zeros(m*n,1); %u: velocity[m/s]
 T(:,1) = 260.15*ones(m*nT,1); %T: temperature[K]
@@ -52,6 +52,7 @@ tau_base = -[5.1e4*ones(floor(enforcedMargin*m/Y),1);...
 %% %% %% %% %%     Solution     %% %% %% %% %%
 
 %%%%%     Steady-State Initial Conditions     %%%%%
+% disp('*****     Time: %d     *****\n',t(1));
 fprintf(fID,'*****     Time: %d     *****\n',t(1));
 [u(:,1),T(:,1),mu(:,1),k(:,1),c(:,1),MTP(:,1)] = ...
     marginSolve(fID,m,n,nT,dy,y,dz,z,zT,Y,Z,dt,u(:,1),T(:,1),mu(:,1),...
@@ -77,5 +78,13 @@ end
 
 
 %% %% %% %% %%     Visualization     %% %% %% %% %%
-save data_Goldsby.mat
+save data_sherlock.mat
 toc
+% save data1.mat
+figure
+plotSurfaceVelocity(m,n,y,u);
+figure
+plotBasalStress(0,0,m,y,dz,Z,rho,g,alpha,tau_base,mu,u,MTP);
+figure
+plotTemperatureField(m,nT,y,zT,T,T_m);
+% toc
