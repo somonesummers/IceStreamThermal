@@ -23,7 +23,7 @@ Q_gbs_h = zeros(m*n,1); %Q_gbs_h: melting point adjusted activation energy[J/mol
 %Dislocation Rheology
 A_disl = 2.85e-31; %A_disl: preexponential constant[1/s*Pa^4]
 Q1_disl = 60e3; %Q1_disl: lower activation energy[J/mol]
-Q2_disl = 180e3; %Q2_disl: higher activation energy[J/mol]
+Q2_disl = 18e3; %Q2_disl: higher activation energy[J/mol]
 Tstar_disl = 258; %Tstar_gbs: activation threshold[K] (-15C)
 Q_disl_h = zeros(m*n,1); %Q_disl_h: melting point adjusted activation energy[J/mol]
 
