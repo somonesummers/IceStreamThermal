@@ -87,4 +87,6 @@ figure
 plotBasalStress(0,0,m,y,dz,Z,rho,g,alpha,tau_base,mu,u,MTP);
 figure
 plotTemperatureField(m,nT,y,zT,T,T_m);
+figure
+plotMuField(m,n,y,z,mu);
 % toc
