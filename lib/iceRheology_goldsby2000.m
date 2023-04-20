@@ -27,7 +27,7 @@ A_gbs  = zeros(m*n,1); %Q_gbs_h: melting point adjusted  preexponential constant
 %Dislocation Rheology
 % A_disl = 3.162e-30; %A_disl: preexponential constant[1/s*Pa^4] Peltier 2000
 % A_disl = 3.162e-30; %A_disl: preexponential constant[1/s*Pa^4] (Qi 2021)
-A_disl = 8.0e-33; %A_disl: preexponential constant[1/s*Pa^4] Paul's tuning
+A_disl = 6.0e-33; %A_disl: preexponential constant[1/s*Pa^4] Paul's tuning
 Q1_disl = 64e3; %Q1_disl: lower activation energy[J/mol]
 Q2_disl = 220e3; %Q2_disl: higher activation energy[J/mol]
 Tstar_disl = 255; %Tstar_gbs: activation threshold[K] (-15C)
