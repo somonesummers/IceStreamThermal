@@ -34,7 +34,7 @@ for jj = 0:jjRange
     
     if iceRheol==1
         maxM = 1;
-    elseif any(iceRheol==[2,3,4])
+    elseif any(iceRheol==[2,3,4,5])
         maxM = 200;
     end
     maxT = 100;
