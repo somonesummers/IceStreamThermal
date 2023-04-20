@@ -35,7 +35,7 @@ for jj = 0:jjRange
     if iceRheol==1
         maxM = 1;
     elseif any(iceRheol==[2,3,4])
-        maxM = 100;
+        maxM = 200;
     end
     maxT = 100;
     smearT = 4;

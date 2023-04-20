@@ -6,7 +6,7 @@
 #SBATCH --partition=serc
 #SBATCH --time=00:45:00
 #SBATCH --cpus-per-task=2
-#SBATCH --mem=8G
+#SBATCH --mem=2G
 #SBATCH --mail-type=ALL
 module load matlab
 matlab -nodisplay < StreamDCopy.m
