@@ -50,6 +50,11 @@ end
 %%%%%     Solve system     %%%%%
 T = M\b;
 
+% D = diag(M);      %diag for Jacobi method iteration
+% L = tril(M,-1);   %lower tri        
+% U = tril(M,1);    %upper tri
+% 
+% T = inv(D)*(b-(L+U)*T); %Jacobi method iteration
 
 end
 

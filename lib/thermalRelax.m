@@ -11,11 +11,9 @@ for j = 1:maxT
                      epsilon_E,rho,w,v,northT,southT,...
                      eastT,westT,T_m,T_atm,G_base,u(1:m),...
                      tau_base,smearT,timeDepFlag,MTP,thermalEnhancement);
-%     D = diag(M);      %diag
+%     D = diag(M);      %diag for maybe Jacobi method iteration
 %     L = tril(M,-1);   %lower tri        
 %     U = tril(M,1);    %upper tri
-%     
-%     T = inv(D)*(
     
     T = omegaT*T + (1-omegaT)*T_old; %Original Method
     
