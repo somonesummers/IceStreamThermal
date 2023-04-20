@@ -78,7 +78,8 @@ end
 
 
 %% %% %% %% %%     Visualization     %% %% %% %% %%
-save data.mat
+save dataStreamD.mat
+if(ismac)
 figure 
 subplot(3,1,1)
 plotSurfaceVelocity(m,n,y,u);
@@ -95,3 +96,4 @@ plotTemperatureField(m,nT,y,zT,T,T_m)
 
 figure
 plotStressStrain(z,y,u,mu,m,n,dy,dz);
+end
