@@ -76,7 +76,11 @@ for nt = 2:length(t)
     getframe;
 end
 
-save dataStreamDGoldsby.mat
+if(~ismac)
+% save dataStreamDGoldsby.mat
+elseif(ismac)
+% save dataMacStreamDGoldsby.mat
+end
 %% %% %% %% %%     Visualization     %% %% %% %% %%
 
 if(ismac)
