@@ -76,9 +76,9 @@ for nt = 2:length(t)
     getframe;
 end
 
-
-%% %% %% %% %%     Visualization     %% %% %% %% %%
 save dataStreamDGoldsby.mat
+%% %% %% %% %%     Visualization     %% %% %% %% %%
+
 if(ismac)
 figure 
 subplot(3,1,1)
