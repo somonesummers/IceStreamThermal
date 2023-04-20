@@ -6,7 +6,7 @@ fID = fopen('log.txt','w');
 
 %%%%     Runtime variables     %%%%%
 %Domain
-m = 1500/10 + 1;
+m = 1500 + 1;
 n = 42; %m,n: dimensions of triangulation
 Y = 30e3;
 Z = 820; %Y,Z: dimensions of domain[m]
@@ -78,7 +78,7 @@ end
 
 
 %% %% %% %% %%     Visualization     %% %% %% %% %%
-save dataStreamD.mat
+save dataStreamDGoldsby.mat
 if(ismac)
 figure 
 subplot(3,1,1)
@@ -97,3 +97,4 @@ plotTemperatureField(m,nT,y,zT,T,T_m)
 figure
 plotStressStrain(z,y,u,mu,m,n,dy,dz);
 end
+
