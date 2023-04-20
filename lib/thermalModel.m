@@ -50,6 +50,7 @@ end
 %%%%%     Solve system     %%%%%
 T = M\b;
 
+
 end
 
 % w = [zeros(m*(nT-n),1);reshape(repmat(w',m,1),m*n,1)];
