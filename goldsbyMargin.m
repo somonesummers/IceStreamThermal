@@ -6,8 +6,8 @@ tic
 
 %%%%     Runtime variables     %%%%%
 %Domain
-m = 3400/10+1;
-n = 140/10+1; %m,n: dimensions of triangulation
+m = 3400/5+1;
+n = 140/5+1; %m,n: dimensions of triangulation
 Y = 34e3;
 Z = 1.4e3; %Y,Z: dimensions of domain[m]
 Z_till = 0; %Z_till: till thickness [m]
@@ -26,13 +26,13 @@ marginSolveType = 2;
 %1: self-consistent margin  %2: choose margin location
 %Coupling
 omegaT = 0.1; %omegaT: thermal relaxation parameter []
-omegaM = 0.1; %omegaR: rheology relaxation parameter []
+omegaM = 0.3; %omegaR: rheology relaxation parameter []
 tol = 1e-3; %tol: rheological and thermal error tolerance []
 %Initialize constants
 [rho,g,alpha,L,G_base,k1,k2,c1,c2,T_m,T_atm,...
  dy,dz,y,z,zT,nT,t,north,south,east,west,...
  northT,southT,eastT,westT,w,v] = initConstants(m,n,Y,Z,Z_till,endT,dt,v_0,a);
-alpha = .0039;
+alpha = .0014;
 %%%%%     Pseudo-Initial Conditions     %%%%%
 u(:,1) = zeros(m*n,1); %u: velocity[m/s]
 T(:,1) = 260.15*ones(m*nT,1); %T: temperature[K]
@@ -78,7 +78,7 @@ end
 
 
 %% %% %% %% %%     Visualization     %% %% %% %% %%
-save data_sherlock.mat
+% save data_sherlock.mat
 toc
 % save data1.mat
 figure

@@ -21,7 +21,7 @@ Q2_gbs = 192e3; %Q2_gbs: higher activation energy[J/mol]
 Tstar_gbs = 255; %Tstar_gbs: activation threshold[K] (-18C)
 Q_gbs_h = zeros(m*n,1); %Q_gbs_h: melting point adjusted activation energy[J/mol]
 %Dislocation Rheology
-A_disl = 2.85e-31; %A_disl: preexponential constant[1/s*Pa^4] came with model
+% A_disl = 2.85e-31; %A_disl: preexponential constant[1/s*Pa^4] came with model
 A_disl = 3.162e-30; %A_disl: preexponential constant[1/s*Pa^4] (Qi 2021)
 % A_disl = 4.25e-31; %A_disl: preexponential constant[1/s*Pa^4] Paul's tuning
 Q1_disl = 60e3; %Q1_disl: lower activation energy[J/mol]
