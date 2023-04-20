@@ -18,9 +18,10 @@ dt = 1; %dt: time step[s]
 v_0 = 0; %v_0: advection rate of ice from ridge [m/s]
 a = 0; %a: accumulation rate [m/yr]
 %Ice Rheology
-iceRheol = 4; %iceRheol: ice rheology choice []
+iceRheol = 5; %iceRheol: ice rheology choice []
 %1: Newtonian (1e14)        %2: Temp-Independent Glen's
 %3: Temp-Dependent Glen's   %4: Temp-Dependent Goldsby
+%5: Temp-Independent Goldsby
 %Margin Solve Type
 marginSolveType = 2;
 %1: self-consistent margin  %2: choose margin location
